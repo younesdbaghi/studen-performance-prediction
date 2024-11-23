@@ -1,12 +1,9 @@
-# Student Performance Prediction
-This is a simple machine learning project using classifiers for predicting factors which affect student grades, using data from CSV file
+Student Performance Prediction 🎓📊
 
+This is a simple machine learning project using classifiers for predicting factors that affect student grades, using data from a CSV file. 📈
 
-In this Project, a dataset which has students from nationalities, different grade levels and also soe determining factors like,
-number of hands raised, nuber attendances, number of hours studied etc. is used, which is a CSV File.
+In this project, a dataset with students from different nationalities 🌍, various grade levels 📚, and determining factors such as the number of hands raised ✋, number of attendances 📝, and number of hours studied ⏰ is used, which is a CSV file.
 
+Several different classifiers and ML models 🤖 have been used to get the most accurate predictions of which factors affect the marks of students.
 
-And a few different classifiers and ML models have been used to get the most accurate predictions of which factors,
-affect the marks of students.
-
-A few visual aids like graphs and confusion matrix have been created, to show the results.
+A few visual aids, like graphs 📊 and the confusion matrix 🔄, have been created to show the results.
